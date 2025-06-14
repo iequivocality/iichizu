@@ -44,7 +44,7 @@ function App() {
 
   return (
     <div className='grid grid-cols-4 px-8 py-12'>
-      <div className='col-span-2 p-4'>
+      <div className='col-span-3 p-4'>
         <h1 className='font-bold text-2xl'>Visit Rates by Prefecture</h1>
         <Japan
           className="max-h-screen stroke-slate-400 fill-slate-100"
@@ -63,7 +63,7 @@ function App() {
           PrefectureWrapperComponent={PrefectureHover}
         />
       </div>
-      <div className='col-span-2 flex flex-col gap-4'>
+      <div className='flex flex-col gap-4'>
         <h2 className='text-xl font-bold'>LEGEND</h2>
         <div className='flex items-center gap-2'>
           <div className='size-10 bg-red-800 rounded-md'></div>

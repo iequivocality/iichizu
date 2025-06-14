@@ -46,7 +46,7 @@ importers:
         version: 1.1.1(@types/react-dom@19.1.5(@types/react@19.1.6))(@types/react@19.1.6)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
       japan-prefectures-react:
         specifier: github:iequivocality/japan-prefectures-react
-        version: https://codeload.github.com/iequivocality/japan-prefectures-react/tar.gz/a4b78d38275376ccd1b2dc46cfaeec53171ec700(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+        version: https://codeload.github.com/iequivocality/japan-prefectures-react/tar.gz/495f1a5c10f84ed65715b6d1580ab1f674d6d8c2(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
       lucide-react:
         specifier: ^0.514.0
         version: 0.514.0(react@19.1.0)
@@ -1375,9 +1375,9 @@ packages:
   is-potential-custom-element-name@1.0.1:
     resolution: {integrity: sha512-bCYeRA2rVibKZd+s2625gGnGF/t7DSqDs4dP7CrLA1m7jKWz6pps0LpYLJN8Q64HtmPKJ1hrN3nzPNKFEKOUiQ==}
 
-  japan-prefectures-react@https://codeload.github.com/iequivocality/japan-prefectures-react/tar.gz/a4b78d38275376ccd1b2dc46cfaeec53171ec700:
-    resolution: {tarball: https://codeload.github.com/iequivocality/japan-prefectures-react/tar.gz/a4b78d38275376ccd1b2dc46cfaeec53171ec700}
-    version: 0.0.10
+  japan-prefectures-react@https://codeload.github.com/iequivocality/japan-prefectures-react/tar.gz/495f1a5c10f84ed65715b6d1580ab1f674d6d8c2:
+    resolution: {tarball: https://codeload.github.com/iequivocality/japan-prefectures-react/tar.gz/495f1a5c10f84ed65715b6d1580ab1f674d6d8c2}
+    version: 0.0.11
     peerDependencies:
       react: ^18.0.0
       react-dom: ^18.0.0
@@ -3077,7 +3077,7 @@ snapshots:
 
   is-potential-custom-element-name@1.0.1: {}
 
-  japan-prefectures-react@https://codeload.github.com/iequivocality/japan-prefectures-react/tar.gz/a4b78d38275376ccd1b2dc46cfaeec53171ec700(react-dom@19.1.0(react@19.1.0))(react@19.1.0):
+  japan-prefectures-react@https://codeload.github.com/iequivocality/japan-prefectures-react/tar.gz/495f1a5c10f84ed65715b6d1580ab1f674d6d8c2(react-dom@19.1.0(react@19.1.0))(react@19.1.0):
     dependencies:
       react: 19.1.0
       react-dom: 19.1.0(react@19.1.0)
