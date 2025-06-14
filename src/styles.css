@@ -50,6 +50,19 @@
   --color-juniper-900: #334146;
   --color-juniper-950: #1e292e;
   --color-juniper: #618f96;
+
+  --color-red-50: #fff1f1;
+  --color-red-100: #ffe1e1;
+  --color-red-200: #ffc7c7;
+  --color-red-300: #ffa0a0;
+  --color-red-400: #ff5252;
+  --color-red-500: #f83b3b;
+  --color-red-600: #e51d1d;
+  --color-red-700: #c11414;
+  --color-red-800: #a01414;
+  --color-red-900: #841818;
+  --color-red-950: #480707;
+  --color-red: #ff5252;
 }
 
 .dark {

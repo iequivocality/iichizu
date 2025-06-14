@@ -1,0 +1,192 @@
+{
+  "2024": {
+    "JP-01": {
+      "prefecture": "Hokkaido",
+      "visit_rate": 6.6347
+    },
+    "JP-02": {
+      "prefecture": "Aomori",
+      "visit_rate": 0.6619
+    },
+    "JP-03": {
+      "prefecture": "Iwate",
+      "visit_rate": 0.4409
+    },
+    "JP-04": {
+      "prefecture": "Miyagi",
+      "visit_rate": 1.2133
+    },
+    "JP-05": {
+      "prefecture": "Akita",
+      "visit_rate": 0.3161
+    },
+    "JP-06": {
+      "prefecture": "Yamagata",
+      "visit_rate": 0.5314
+    },
+    "JP-07": {
+      "prefecture": "Fukushima",
+      "visit_rate": 0.4222
+    },
+    "JP-08": {
+      "prefecture": "Ibaraki",
+      "visit_rate": 0.5714
+    },
+    "JP-09": {
+      "prefecture": "Tochigi",
+      "visit_rate": 1.2427
+    },
+    "JP-10": {
+      "prefecture": "Gunma",
+      "visit_rate": 0.5421
+    },
+    "JP-11": {
+      "prefecture": "Saitama",
+      "visit_rate": 1.2204
+    },
+    "JP-12": {
+      "prefecture": "Chiba",
+      "visit_rate": 36.5677
+    },
+    "JP-13": {
+      "prefecture": "Tokyo",
+      "visit_rate": 51.4967
+    },
+    "JP-14": {
+      "prefecture": "Kanagawa",
+      "visit_rate": 9.1115
+    },
+    "JP-15": {
+      "prefecture": "Niigata",
+      "visit_rate": 0.5867
+    },
+    "JP-16": {
+      "prefecture": "Toyama",
+      "visit_rate": 0.9814
+    },
+    "JP-17": {
+      "prefecture": "Ishikawa",
+      "visit_rate": 2.1833
+    },
+    "JP-18": {
+      "prefecture": "Fukui",
+      "visit_rate": 0.1821
+    },
+    "JP-19": {
+      "prefecture": "Yamanashi",
+      "visit_rate": 8.0363
+    },
+    "JP-20": {
+      "prefecture": "Nagano",
+      "visit_rate": 2.9145
+    },
+    "JP-21": {
+      "prefecture": "Gifu",
+      "visit_rate": 3.1447
+    },
+    "JP-22": {
+      "prefecture": "Shizuoka",
+      "visit_rate": 3.5492
+    },
+    "JP-23": {
+      "prefecture": "Aichi",
+      "visit_rate": 6.7551
+    },
+    "JP-24": {
+      "prefecture": "Mie",
+      "visit_rate": 0.7335
+    },
+    "JP-25": {
+      "prefecture": "Shiga",
+      "visit_rate": 0.505
+    },
+    "JP-26": {
+      "prefecture": "Kyoto",
+      "visit_rate": 29.4811
+    },
+    "JP-27": {
+      "prefecture": "Osaka",
+      "visit_rate": 39.5736
+    },
+    "JP-28": {
+      "prefecture": "Hyogo",
+      "visit_rate": 5.2868
+    },
+    "JP-29": {
+      "prefecture": "Nara",
+      "visit_rate": 8.8043
+    },
+    "JP-30": {
+      "prefecture": "Wakayama",
+      "visit_rate": 1.2232
+    },
+    "JP-31": {
+      "prefecture": "Tottori",
+      "visit_rate": 0.2682
+    },
+    "JP-32": {
+      "prefecture": "Shimane",
+      "visit_rate": 0.1541
+    },
+    "JP-33": {
+      "prefecture": "Okayama",
+      "visit_rate": 1.0049
+    },
+    "JP-34": {
+      "prefecture": "Hiroshima",
+      "visit_rate": 3.817
+    },
+    "JP-35": {
+      "prefecture": "Yamaguchi",
+      "visit_rate": 0.5678
+    },
+    "JP-36": {
+      "prefecture": "Tokushima",
+      "visit_rate": 0.2545
+    },
+    "JP-37": {
+      "prefecture": "Kagawa",
+      "visit_rate": 0.938
+    },
+    "JP-38": {
+      "prefecture": "Ehime",
+      "visit_rate": 0.397
+    },
+    "JP-39": {
+      "prefecture": "Kochi",
+      "visit_rate": 0.2232
+    },
+    "JP-40": {
+      "prefecture": "Fukuoka",
+      "visit_rate": 11.15
+    },
+    "JP-41": {
+      "prefecture": "Saga",
+      "visit_rate": 0.6343
+    },
+    "JP-42": {
+      "prefecture": "Nagasaki",
+      "visit_rate": 1.0142
+    },
+    "JP-43": {
+      "prefecture": "Kumamoto",
+      "visit_rate": 2.113
+    },
+    "JP-44": {
+      "prefecture": "Oita",
+      "visit_rate": 3.8386
+    },
+    "JP-45": {
+      "prefecture": "Miyazaki",
+      "visit_rate": 0.3529
+    },
+    "JP-46": {
+      "prefecture": "Kagoshima",
+      "visit_rate": 0.6276
+    },
+    "JP-47": {
+      "prefecture": "Okinawa",
+      "visit_rate": 4.487
+    }
+  }
+}
