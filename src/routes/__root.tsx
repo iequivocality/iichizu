@@ -16,7 +16,7 @@ export const Route = createRootRoute({
           <div className='flex items-center gap-x-4'>
             <MapIcon className='size-8' />
             <div>
-              <h1 className='text-2xl font-bold'>iichizu</h1>
+              <h1 className='text-lg md:text-2xl font-bold'>iichizu</h1>
               <p className='text-muted-foreground'>fun japanese maps</p>
             </div>
           </div>
@@ -27,7 +27,7 @@ export const Route = createRootRoute({
             <Outlet />
           </main>
         </StatProvider>
-        <footer className='w-full h-20 flex flex-col justify-center items-center text-muted-foreground border-t'>
+        <footer className='w-full h-20 flex flex-col justify-center items-center text-muted-foreground text-xs md:text-base border-t'>
           <span>
             © 2024-2025. Built by{' '}
             <a className='underline' href='https://www.ambi.moe/'>
