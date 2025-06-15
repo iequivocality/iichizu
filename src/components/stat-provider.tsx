@@ -1,5 +1,5 @@
+import type { AvailableYears, TourismStats } from '@/types';
 import { useQuery } from '@tanstack/react-query';
-import type { PrefectureCode } from 'japan-prefectures-react';
 import { createContext, useContext } from 'react';
 
 export type StatContextType = {
@@ -7,19 +7,22 @@ export type StatContextType = {
   currentYear: AvailableYears;
 };
 
-export type AvailableYears = 2024 | 2023;
-
-export type TourismStats = Record<AvailableYears, Record<PrefectureCode, {prefecture: string, visit_rate: number}>>
-
 const StatContext = createContext<StatContextType | undefined>(undefined);
 
 export function StatProvider({ children }: { children: React.ReactNode }) {
-  const { data: tourismStats, isFetching } = useQuery<TourismStats>({ queryKey: ['todos'], queryFn: async () => {
-    const response = await fetch('./tourism.json');
-    return await response.json();
-  }});
+  const { data: tourismStats, isFetching } = useQuery<TourismStats>({
+    queryKey: ['tourismStats'],
+    queryFn: async () => {
+      const response = await fetch('./tourism.json');
+      return await response.json();
+    },
+  });
   if (tourismStats === undefined || isFetching) {
-    return <div>Loading...</div>;
+    return (
+      <div className='h-[calc(100vh-160px)] min-w-screen flex justify-center items-center'>
+        Loading...
+      </div>
+    );
   }
 
   return (
