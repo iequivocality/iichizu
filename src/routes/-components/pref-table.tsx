@@ -18,7 +18,6 @@ import {
 } from '@/components/ui/table';
 import { useState } from 'react';
 import { ArrowUpDown } from 'lucide-react';
-import { Button } from '@/components/ui/button';
 
 interface DataTableProps<TData, TValue> {
   columns: ColumnDef<TData, TValue>[];
